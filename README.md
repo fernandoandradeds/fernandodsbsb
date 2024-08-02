@@ -6,6 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/fernandoandradeds)
 
 ![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandodsbsb&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandodsbsb)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia ⚙️
 
