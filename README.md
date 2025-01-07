@@ -22,6 +22,6 @@ Iniciando minha jornada em Ciência de Dados, focado na análise e visualizaçã
 
 ## Projetos e estudos 📚
 - [Graduação em Data Science - Faculdade Senac DF](https://www.df.senac.br/curso/curso-superior-de-tecnologia-em-ciencia-de-dados/)<br/>
-- [Pós Graduaando em Data Science e Inteligência Artificial - Faculdade Senac DF](https://www.df.senac.br/curso/especializacao-em-data-science-e-inteligencia-artificial/)
+- [Pós Graduado em Data Science e Inteligência Artificial - Faculdade Senac DF](https://www.df.senac.br/curso/especializacao-em-data-science-e-inteligencia-artificial/)
 
 
